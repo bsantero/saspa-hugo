@@ -1,0 +1,81 @@
+.sidebar {
+  background: rgb(49, 126, 17);
+  color: #fff;
+  position: relative;
+  top: none;
+  bottom: none;
+}
+
+.header {
+  margin-top: 1rem;
+}
+
+  .brand-title, .content-subhead {
+    text-transform: none;
+    font-variant: small-caps;
+  }
+
+  .brand-tagline {
+    color: rgba(220,220,220,.8);
+  }
+
+  .nav-list .nav-item a {
+    border: 2px solid white;
+
+  }
+
+  .pure-nav-menu {
+    text-align: center;
+  }
+
+    .pure-nav-menu .pure-menu-item {
+      display: inline-block;
+      text-decoration: none;
+    }
+
+    .pure-nav-menu .pure-menu-link {
+      color: white;
+    }
+
+    .pure-nav-menu .pure-menu .pure-menu-link:hover,
+    .pure-nav-menu .pure-menu .pure-menu-link:focus {
+      background: rgba(0,0,0,.2);
+      text-decoration: none;
+    }
+
+.content {
+  margin-left: inherit;
+}
+
+@media (min-width: 48em) {
+
+  .header hgroup {
+    margin-top: 3rem;
+  }
+
+  .nav-list .nav-item a {
+    margin-top: 1rem;
+  }
+
+  .pure-nav-menu {
+    margin-top: 2rem;
+    /*margin-left: 25%;*/
+    /*background: #D7D7D7;*/
+  }
+
+  .pure-nav-menu .pure-menu-item {
+    /*display: block;*/
+  }
+
+  .pure-nav-menu .pure-menu .pure-menu-link {
+    font-size: 1.5rem;
+    text-align: right;
+    margin-top: .4rem;
+    transition: all .2s ease-in-out;
+  }
+
+  .header {
+    margin: 1rem;
+  }
+
+}

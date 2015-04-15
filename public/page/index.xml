@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Musicians of the San Antonio Symphony</title>
+    <link>http://localhost:1313/page/</link>
+    <description>Recent content in Pages on Musicians of the San Antonio Symphony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Apr 2015 11:14:07 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/page/about/</link>
+      <pubDate>Sun, 12 Apr 2015 11:14:07 -0500</pubDate>
+      
+      <guid>http://localhost:1313/page/about/</guid>
+      <description>&lt;p&gt;The musicians of the San Antonio Symphony believe our orchestra is a vital cultural icon, an integral source of identity for our city and a public trust. Economically, the Symphony helps define San Antonio as a major metropolitan area with the highest quality musical culture, making it more attractive to tourists and potential businesses alike. Artistically and educationally, we are integrated into the fabric of life through the city.&lt;/p&gt;
+
+&lt;p&gt;The San Antonio Symphony is the only full-time, professional, performing arts organization in San Antonio. Each member of the orchestra is a highly-trained musician; 75% of us have Masters degrees in our fields that are the culmination of a musical training that begins in early childhood. Each position in the orchestra is filled through rigorous and intense international competition. The orchestra&amp;rsquo;s musicians come from as close as San Antonio and as far away as Syria, Turkey, China, and Japan.&lt;/p&gt;
+
+&lt;p&gt;Just as importantly, we live here - 60% of us are homeowners - raise our families here and pay taxes here.&lt;/p&gt;
+
+&lt;p&gt;We serve as positive role models for countless San Antonio youth. At last count, 90% of the members of the orchestra were mentoring around 800 individual students in one-on-one private lessons.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
